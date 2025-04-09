@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/25c5cec4-d26e-4854-bd6e-e6f645ef4c49)
+![Image](https://github.com/user-attachments/assets/7ea6cb41-369f-4d01-894a-4654eb04ebb7)
 
   - 👀 I'm interested in Back-end development.
 - 🌱 I'm currently learning the Java Script language.
