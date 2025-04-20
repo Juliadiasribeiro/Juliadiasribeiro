@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/7ea6cb41-369f-4d01-894a-4654eb04ebb7)
 
-  - 👀 I'm interested in Back-end development.
+  - 👀 I'm interested in Full Stack development.
 - 🌱 I'm currently learning the Java Script language.
 - 💞️ I'm looking to collaborate on software..
 - 📫 Contact me by E-mail: julia2314@hotmail.com
